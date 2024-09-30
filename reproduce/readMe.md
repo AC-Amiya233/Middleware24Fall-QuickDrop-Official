@@ -11,8 +11,8 @@ It now includes the code to reproduce the similar result and an extensive of Fig
 1. [fig2_with_recovering](fig2_with_recovering): similar results in the Figure 2.
 2. [fig2_without_recovering](fig2_without_recovering): a proper unlearning rate hardly degrades other class accuracies.
 
-Each running on the 2 datasets in total of 4 figures, which are stored in [result_1](fig2_with_recovering%2Fresult) and [result_2](fig2_without_recovering%2Fresult). 
+Each runs on the 2 datasets in total of 4 figures, which are stored in [result_1](fig2_with_recovering%2Fresult) and [result_2](fig2_without_recovering%2Fresult). 
 You can run the codes [code_1](fig2_with_recovering%2Fcode) and [code_2](fig2_without_recovering%2Fcode). The command lines have been
-included in their folders if computing device available, or directly check the running results the new running platform is an i9-13900K CPU and a RTX3090.
+included in their folders if computation device is available, or you can directly check the running results on our device. Our new running platform is an i9-13900K CPU and a RTX3090.
 
 Thanks for recognizing our work.
