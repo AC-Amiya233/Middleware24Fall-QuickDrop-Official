@@ -15,4 +15,4 @@ Each running on the 2 datasets in total of 4 figures, which are stored in [resul
 You can run the codes [code_1](fig2_with_recovering%2Fcode) and [code_2](fig2_without_recovering%2Fcode). The command lines have been
 included in their folders if computing device available, or directly check the running results the new running platform is an i9-13900K CPU and a RTX3090.
 
-Thanks for recognaize our work.
+Thanks for recognizing our work.
