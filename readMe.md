@@ -22,4 +22,5 @@ How to use the architecture?
 1. generate FL env using methods in the env_generator.
 2. choose or customize servers and clients.
 3. assemble your own experiment.
+If you like the work, please give me a star. Thanks!
 ---
